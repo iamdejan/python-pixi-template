@@ -1,5 +1,8 @@
+from src import hello
+
+
 def main() -> None:
-    print("Hello world")
+    print(hello())
 
 
 if __name__ == "__main__":
