@@ -7,7 +7,7 @@ version = "0.1.0"
 
 [tasks]
 test = "pytest tests/ -v"
-lint = "ruff check ."
+lint-ci = "ruff check ."
 lint-fix = "ruff check . --fix"
 type-check = "mypy ."
 
