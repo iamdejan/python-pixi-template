@@ -1,7 +1,7 @@
 from src import hello
 
 
-def main() -> None:
+def main():
     print(hello())
 
 
