@@ -20,14 +20,9 @@ Before running this program, ensure you have the following installed:
 
 ## Run the Program
 
-Use the following command to build and run the project:
+Use Pixi to run it:
    ```bash
-   python main.py
-   ```
-
-Or use Pixi to run it:
-   ```bash
-   pixi run python main.py
+   pixi run start
    ```
 
 ### Available Commands
